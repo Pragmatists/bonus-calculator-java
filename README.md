@@ -2,7 +2,7 @@ Bonus Calculator
 ================
 
 ### Individual Bonus
-To calculate the bonus, you need to know the salesperson's total sales amount, their quota, their commission percentage and any tax that must be deducted.
+Your task is to write a program that will calculate the bonus a salesperson can get. To calculate the bonus, you need to know the salesperson's total sales amount, their quota, their commission percentage and any tax that must be deducted.
 
 *Examples
 
