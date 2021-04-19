@@ -35,7 +35,7 @@ public class BonusCalculatorTest {
     }
 
     @Test
-    public void bonus_value_depend_on_tax() {
+    public void tax_is_subtracted_from_commission() {
         Integer bonus = new BonusCalculator().calculate(1000, 900, 10, 10);
 
         assertThat(bonus).isEqualTo(9);
